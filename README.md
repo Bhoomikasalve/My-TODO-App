@@ -2,17 +2,31 @@
 
 A simple and intuitive full-stack ToDo application that lets users manage their daily tasks with ease. Built with modern technologies, this app allows users to add, update, complete, and delete tasks — with real-time updates and persistent storage.
 
+## 🌟 Overview
+
+This project is a full-stack implementation of a ToDo list application, designed as a productivity tool that helps users manage daily activities. Users can create, update, mark as completed, and delete tasks — all stored in a secure database with authentication and authorization features.
+
 ---
 
-## 🚀 Features
+## ⚙️ Key Features
 
-- ✅ User authentication (Sign up / Log in)
-- 📋 Add, edit, and delete tasks
-- 📌 Mark tasks as completed
-- 🧹 Clear completed tasks
-- 🌙 Light & Dark mode (optional)
-- 💾 Persistent storage with database
-- ⚡ Fast and responsive UI
+- 🔐 **User Authentication**
+  - Secure signup and login system using JWT tokens
+- ➕ **Task Creation**
+- Add new tasks with optional description or due date
+- ✅ **Task Completion**
+  - Mark tasks as done and keep track of progress
+- 📝 **Task Editing**
+  - Update task titles and details anytime
+- 🗑️ **Delete Tasks**
+  - Remove single or multiple tasks easily
+- 💾 **Persistent Storage**
+  - All tasks are saved to a database and persist across sessions
+- 📱 **Responsive Design**
+  - Works smoothly across mobile, tablet, and desktop
+- 🌈 **Clean UI**
+  - Minimalistic and user-friendly interface
+- 🌓 **Dark Mode** (optional)
 
 ---
 
@@ -39,13 +53,12 @@ A simple and intuitive full-stack ToDo application that lets users manage their 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/todo-fullstack-app.git
-cd todo-fullstack-app
+git clone https://github.com/your-username/my-todo-app.git
+cd todo-app
 
 
 
-cd backend
+cd client
 npm install
-Create a .env file and add:
-
+npm run dev
 
