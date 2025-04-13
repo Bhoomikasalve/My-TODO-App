@@ -26,7 +26,7 @@ This project is a full-stack implementation of a ToDo list application, designed
   - Works smoothly across mobile, tablet, and desktop
 - 🌈 **Clean UI**
   - Minimalistic and user-friendly interface
-- 🌓 **Dark Mode** (optional)
+
 
 ---
 
