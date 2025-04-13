@@ -33,13 +33,13 @@ This project is a full-stack implementation of a ToDo list application, designed
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- React.js / Next.js
-- Tailwind CSS (or your styling choice)
-- Axios / Fetch API
+- React.js 
+- Tailwind CSS 
+- Axios 
 
 **Backend:**
 - Node.js + Express.js
-- MongoDB / PostgreSQL (via Mongoose / Prisma)
+- MongoDB 
 
 **Other Tools:**
 - JWT for auth
