@@ -49,32 +49,3 @@ npm install
 Create a .env file and add:
 
 
-Copy
-Edit
-MONGO_URI=your_mongo_db_connection_string
-JWT_SECRET=your_jwt_secret
-PORT=5000
-Start the backend server:
-
-bash
-Copy
-Edit
-npm run dev
-3. Set up the Frontend
-bash
-Copy
-Edit
-cd ../frontend
-npm install
-Configure .env in frontend if needed:
-
-ini
-Copy
-Edit
-VITE_API_URL=http://localhost:5000
-Start the frontend:
-
-bash
-Copy
-Edit
-npm run dev
